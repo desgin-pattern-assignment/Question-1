@@ -1,0 +1,7 @@
+Messi M 30 1.00
+Ronaldo M 32 1.30
+Neymar M 26 0.35
+Rooney M 20 0.25
+Mbappe M 16 0.45
+Marta F 12 0.25
+Hope F 28 0.48
