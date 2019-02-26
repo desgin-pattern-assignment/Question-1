@@ -26,15 +26,6 @@ public class Swimmer{
         }
     }
 
-    public String printFormattedSwimmer(){
-        return "Name: " + this.name + "\nSex: " + this.sex + "\nAge: " + this.age + "\nTime: " + this.time + "\nAge Group: " + this.ageGroup;
-    }
-
-    @Override
-    public String toString() {
-        return "{Name: " + this.name + " Sex: " + this.sex + " Age: " + this.age + " Time: " + this.time + " Age Group: " + this.ageGroup + "}";
-    }
-
     public String getName(){
         return this.name;
     }
